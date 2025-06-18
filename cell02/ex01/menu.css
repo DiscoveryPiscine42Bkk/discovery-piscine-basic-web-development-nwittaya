@@ -1,13 +1,13 @@
 .food {
-    background-color: rgb(183, 255, 255);
+    background-color: rgb(255, 231, 200);
     border: solid black;
     width: 50px;
 }
 .button:hover {
-    background-color: rgb(255, 187, 187);
+    background-color: rgb(229, 201, 255);
 }
 .food:hover {
-    background-color: rgb(226, 210, 255);
+    background-color: rgb(255, 184, 184);
 }
 .list {
     display: none;
