@@ -1,0 +1,22 @@
+.food {
+    background-color: rgb(183, 255, 255);
+    border: solid black;
+    width: 50px;
+}
+.button:hover {
+    background-color: rgb(255, 187, 187);
+}
+.food:hover {
+    background-color: rgb(226, 210, 255);
+}
+.list {
+    display: none;
+}
+.menu {
+    display:inline-block;
+}
+
+.menu:hover .list {
+    display: flex;
+    flex-direction: column;
+}
